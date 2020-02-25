@@ -53,3 +53,16 @@ This project will create a device controller that can remotely switch on or off 
 | 1. | Arduino IDE | 1.6.5 | Arduino | Helps to writecode and upload it to the board. | https://www.arduino.cc/en/Main/Software |
 | 2. | TCP Client | 1.1 | Sollae Systems | Allows data transmission using TCP/IPcommunication. | https://play.google.com/store/apps/details?id=com.sollae.eztcpclient |
 
+## 4. Architecture
+
+![Architecture Diagram](https://github.com/harshshah/Embedded-systems/blob/master/images%20for%20readme/architecture-diag.PNG)
+
+The architectural diagram consists of four main subsystems. Bread Board consists of a Level Shifter which changes the high voltage (5V) to low voltage (3.3V) and vice versa. Arduino Board acts as a decision maker and is connected between Wifi and FTDI Module and consists of only one UART for serial communication. Wifi Module is used to connect to the wireless network and thus to the devices like mobile phones. FTDI Module Transmitter is connected to the 10th pin of Arduino and Receiver Rx is connected to the 11th pin of Arduino Board, this is called software serial which acts as a UART.
+
+## 5. Flow chart
+
+![Architecture Diagram](https://github.com/harshshah/Embedded-systems/blob/master/images%20for%20readme/flow-chart.PNG) 
+
+## 6. Block Diagram
+
+![Architecture Diagram](https://github.com/harshshah/Embedded-systems/blob/master/images%20for%20readme/block-diag.PNG)
