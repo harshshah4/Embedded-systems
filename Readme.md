@@ -41,15 +41,15 @@ This project will create a device controller that can remotely switch on or off 
 | **S.**** No **|** Item **|** Model **|** Vendor **|** Price **|** Description **|** Reference** |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1. | Wifi module | ESP826 6 | Esppress if | INR 320 | Acts as server or client | https://www.sparkfun.com/products/13678 |
-| 2. | Level Shifter | BOB- 12009 | Sparkfun | INR 200 | Converts 5V to3.3 V | https://www.sp arkfun.com/products/12009 |
+| 2. | Level Shifter | BOB- 12009 | Sparkfun | INR 200 | Converts 5V to3.3 V | https://www.sparkfun.com/products/12009 |
 | 3. | Arduino | UNO R3 | Arduino | INR 600 | Microcontrollerused for decision making. | https://www.arduino.cc/ArduinoBoardUno |
-| 4. | FTDIModule | FT232 | Ska.india | INR 400 | TTL to USBconverter toconnect Arduino to PC | http://www.ftd ichip.com/Products |
-| 5. | Bread Board | - | Balaji | INR 80 | Construction base for electronicsprototyping | https://en.wiki pedia.org/wiki/Breadboard |
+| 4. | FTDIModule | FT232 | Ska.india | INR 400 | TTL to USBconverter toconnect Arduino to PC | http://www.ftdichip.com/Products |
+| 5. | Bread Board | - | Balaji | INR 80 | Construction base for electronicsprototyping | https://en.wikipedia.org/wiki/Breadboard |
 
 **b.** Software
 
 | **S.** No | Item | Version | Vendor | Description | Reference |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Arduino IDE | 1.6.5 | Arduino | Helps to writecode and upload it to the board. | https://www.arduino.cc/en/Main/So ftware |
-| 2. | TCP Client | 1.1 | Sollae Systems | Allows data transmission using TCP/IPcommunication. | https://play.googl e.com/store/apps/ details?id=com.sollae.eztcpclient |
+| 1. | Arduino IDE | 1.6.5 | Arduino | Helps to writecode and upload it to the board. | https://www.arduino.cc/en/Main/Software |
+| 2. | TCP Client | 1.1 | Sollae Systems | Allows data transmission using TCP/IPcommunication. | https://play.google.com/store/apps/details?id=com.sollae.eztcpclient |
 
