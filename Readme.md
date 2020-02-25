@@ -61,7 +61,7 @@ The architectural diagram consists of four main subsystems. Bread Board consists
 
 ## 5. Flow chart
 
-![Flow chart](https://github.com/harshshah4/Embedded-systems/blob/master/images%20for%20readme/flow-chart.png) 
+![Flow chart](https://github.com/harshshah4/Embedded-systems/blob/master/images%20for%20readme/flow-chart.png = 250x100) 
 
 ## 6. Block Diagram
 
